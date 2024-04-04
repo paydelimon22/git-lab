@@ -8,8 +8,8 @@ Add description...
 ``` return(a + b)```
 ### Lists
 - [x] Turn on Github Pages
-- [] Outline my portfolio
-- [] Introduce myself to the world
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ### Images
 ![Alt text image README](imageReadme.jpg)
 
