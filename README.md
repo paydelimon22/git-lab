@@ -4,6 +4,8 @@
 Add description...
 
 ## Contents
+### Code Examples
+``` return(a + b)```
 ### Images
 ![Alt text image README](imageReadme.jpg)
 
