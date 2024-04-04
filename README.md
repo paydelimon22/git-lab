@@ -5,7 +5,7 @@ Add description...
 
 ## Contents
 ### Images
-![Alt text image README](/assets/images/imageReadme.jpg)
+![Alt text image README](imageReadme.jpg)
 
 ## References
 [Github documentation]( https://docs.github.com/en)
