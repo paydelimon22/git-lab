@@ -1,2 +1,4 @@
-# git-lab
-Git practica laboratory
+# Git and github laboratory
+Git practice laboratory
+
+Valentina González
